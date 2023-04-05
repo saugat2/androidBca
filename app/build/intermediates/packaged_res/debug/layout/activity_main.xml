@@ -23,6 +23,7 @@
         android:src="@drawable/ic_launcher_foreground"
         />
     <EditText
+        android:id="@+id/edone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="text"
@@ -32,10 +33,11 @@
         android:textStyle="bold"
         />
     <EditText
+        android:id="@+id/pass"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Enter your Password"
-        android:inputType="textPassword"
+        android:inputType="text"
         android:layout_margin="10dp"
         android:textColor="@color/black"
         android:textStyle="bold"

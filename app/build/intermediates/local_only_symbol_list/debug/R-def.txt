@@ -41,7 +41,9 @@ id textView6
 id textView7
 id textView8
 id textView9
+id tvContextMenu
 layout activity_assingment
+layout activity_context_menu
 layout activity_fragment_example
 layout activity_main
 layout activity_new_page

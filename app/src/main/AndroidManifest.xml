@@ -12,7 +12,7 @@
         android:theme="@style/Theme.NextOne"
         tools:targetApi="31">
         <activity
-            android:name=".FragmentLearningActivity"
+            android:name=".ContextMenu"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,22 +21,25 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".FragmentLearningActivity"
+            android:exported="true"></activity>
+        <activity
             android:name=".Testkonaya"
             android:exported="false" />
         <activity
             android:name=".Testko"
-            android:exported="true">
-
-        </activity>
+            android:exported="true"></activity>
         <activity
             android:name=".NewPage"
             android:exported="false" />
         <activity
             android:name=".Assingment"
-            android:exported="false" />
+            android:exported="true">
+
+        </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
     </application>
 
 </manifest>

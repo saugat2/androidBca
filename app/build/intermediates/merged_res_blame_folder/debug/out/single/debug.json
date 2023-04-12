@@ -120,7 +120,7 @@
         "source": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-main-31:\\layout\\activity_fragment_example.xml"
     },
     {
-        "merged": "com.example.nextone.app-merged_res-29:/layout_fragment_second.xml.flat",
-        "source": "com.example.nextone.app-main-31:/layout/fragment_second.xml"
+        "merged": "com.example.nextone.app-merged_res-29:/layout_costom_dialouge.xml.flat",
+        "source": "com.example.nextone.app-main-31:/layout/costom_dialouge.xml"
     }
 ]

@@ -2908,7 +2908,9 @@ int id btnSecondFragment 0x7f080066
 int id button 0x7f080067
 int id button2 0x7f080068
 int id button3 0x7f080069
+int id buttonCancel 0x7f080215
 int id buttonPanel 0x7f08006a
+int id buttonok 0x7f080216
 int id cache_measures 0x7f08006b
 int id callMeasure 0x7f08006c
 int id cancel_button 0x7f08006d

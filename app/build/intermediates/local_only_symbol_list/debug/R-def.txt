@@ -17,6 +17,8 @@ id btnSecondFragment
 id button
 id button2
 id button3
+id buttonCancel
+id buttonok
 id checkBox
 id checkBox2
 id dMessage

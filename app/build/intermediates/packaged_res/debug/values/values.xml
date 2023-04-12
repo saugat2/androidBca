@@ -8,7 +8,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">NextOne</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message">Hi this is android programming calling from the another side </string>
     <style name="Theme.NextOne" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>

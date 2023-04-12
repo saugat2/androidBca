@@ -2901,7 +2901,10 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnCustom
+id btnDiaog
 id btnFirstFragment
+id btnPopup
 id btnSecondFragment
 id button
 id button2
@@ -2947,6 +2950,7 @@ id currentState
 id custom
 id customPanel
 id cut
+id dMessage
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -3036,6 +3040,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imgDialog
 id immediateStop
 id included
 id indeterminate
@@ -3043,6 +3048,9 @@ id info
 id invisible
 id inward
 id italic
+id itemJava
+id itemKotlin
+id itemSwift
 id item_touch_helper_previous_elevation
 id jumpToEnd
 id jumpToStart
@@ -3441,6 +3449,7 @@ layout activity_main
 layout activity_new_page
 layout activity_testko
 layout activity_testkonaya
+layout costom_dialouge
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3522,6 +3531,7 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu option_menu
+menu popup
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -3570,7 +3580,6 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
-string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -3607,6 +3616,7 @@ string material_timepicker_minute
 string material_timepicker_pm
 string material_timepicker_select_time
 string material_timepicker_text_input_mode_description
+string message
 string mtrl_badge_numberless_content_description
 string mtrl_checkbox_button_icon_path_checked
 string mtrl_checkbox_button_icon_path_group_name

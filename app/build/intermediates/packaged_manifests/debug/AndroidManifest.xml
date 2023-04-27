@@ -27,7 +27,10 @@
         android:testOnly="true"
         android:theme="@style/Theme.NextOne" >
         <activity
-            android:name="com.example.nextone.ContextMenu"
+            android:name="com.example.nextone.GridViewAdapter"
+            android:exported="false" />
+        <activity
+            android:name="com.example.nextone.GrdiExampleActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -35,6 +38,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.nextone.ListActivity"
+            android:exported="true" >
+        </activity>
+        <activity
+            android:name="com.example.nextone.ContextMenu"
+            android:exported="true" />
         <activity
             android:name="com.example.nextone.FragmentLearningActivity"
             android:exported="true" />
@@ -49,8 +59,7 @@
             android:exported="false" />
         <activity
             android:name="com.example.nextone.Assingment"
-            android:exported="true" >
-        </activity>
+            android:exported="true" />
         <activity
             android:name="com.example.nextone.MainActivity"
             android:exported="true" />

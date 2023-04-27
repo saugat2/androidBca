@@ -3041,7 +3041,9 @@ int id ifRoom 0x7f0800e9
 int id ignore 0x7f0800ea
 int id ignoreRequest 0x7f0800eb
 int id image 0x7f0800ec
+int id imageItemGrid 0x7f08021a
 int id imgDialog 0x7f0800ed
+int id imgListItem 0x7f080218
 int id immediateStop 0x7f0800ee
 int id included 0x7f0800ef
 int id indeterminate 0x7f0800f0
@@ -3135,6 +3137,8 @@ int id navigation_header_container 0x7f080147
 int id never 0x7f080148
 int id neverCompleteToEnd 0x7f080149
 int id neverCompleteToStart 0x7f08014a
+int id newGridView 0x7f08021b
+int id newListView 0x7f080217
 int id noScroll 0x7f08014b
 int id noState 0x7f08014c
 int id none 0x7f08014d
@@ -3314,6 +3318,8 @@ int id transition_scene_layoutid_cache 0x7f0801fa
 int id transition_transform 0x7f0801fb
 int id triangle 0x7f0801fc
 int id tvContextMenu 0x7f0801fd
+int id tvItemGrid 0x7f08021c
+int id tvListItem 0x7f080219
 int id unchecked 0x7f0801fe
 int id uniform 0x7f0801ff
 int id unlabeled 0x7f080200
@@ -3446,6 +3452,9 @@ int layout abc_tooltip 0x7f0b001b
 int layout activity_assingment 0x7f0b001c
 int layout activity_context_menu 0x7f0b001d
 int layout activity_fragment_example 0x7f0b001e
+int layout activity_grdi_example 0x7f0b0076
+int layout activity_grid_view_adapter 0x7f0b0077
+int layout activity_list_activity 0x7f0b0074
 int layout activity_main 0x7f0b001f
 int layout activity_new_page 0x7f0b0020
 int layout activity_testko 0x7f0b0021
@@ -3470,6 +3479,7 @@ int layout design_text_input_start_icon 0x7f0b0033
 int layout fragment_first 0x7f0b0034
 int layout fragment_learning_activity 0x7f0b0035
 int layout fragment_second 0x7f0b0036
+int layout layout_list_item 0x7f0b0075
 int layout m3_alert_dialog 0x7f0b0037
 int layout m3_alert_dialog_actions 0x7f0b0038
 int layout m3_alert_dialog_title 0x7f0b0039

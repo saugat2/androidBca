@@ -16,6 +16,10 @@
         "source": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "com.example.nextone.app-merged_res-29:/layout_activity_grdi_example.xml.flat",
+        "source": "com.example.nextone.app-main-31:/layout/activity_grdi_example.xml"
+    },
+    {
         "merged": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-merged_res-29:\\layout_activity_context_menu.xml.flat",
         "source": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-main-31:\\layout\\activity_context_menu.xml"
     },
@@ -56,6 +60,10 @@
         "source": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
     },
     {
+        "merged": "com.example.nextone.app-merged_res-29:/layout_activity_grid_view_adapter.xml.flat",
+        "source": "com.example.nextone.app-main-31:/layout/activity_grid_view_adapter.xml"
+    },
+    {
         "merged": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-merged_res-29:\\layout_costom_dialouge.xml.flat",
         "source": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-main-31:\\layout\\costom_dialouge.xml"
     },
@@ -66,6 +74,10 @@
     {
         "merged": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-merged_res-29:\\layout_fragment_second.xml.flat",
         "source": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-main-31:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-merged_res-29:\\layout_activity_list_activity.xml.flat",
+        "source": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-main-31:\\layout\\activity_list_activity.xml"
     },
     {
         "merged": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
@@ -120,7 +132,7 @@
         "source": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-main-31:\\layout\\activity_fragment_example.xml"
     },
     {
-        "merged": "com.example.nextone.app-merged_res-29:/layout_costom_dialouge.xml.flat",
-        "source": "com.example.nextone.app-main-31:/layout/costom_dialouge.xml"
+        "merged": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-merged_res-29:\\layout_layout_list_item.xml.flat",
+        "source": "C:\\Users\\Saugat Sapkota\\.gradle\\daemon\\7.5\\com.example.nextone.app-main-31:\\layout\\layout_list_item.xml"
     }
 ]

@@ -31,10 +31,14 @@ id editTextTextPersonName4
 id editTextTextPersonName5
 id edone
 id frameLayout
+id imageItemGrid
 id imgDialog
+id imgListItem
 id itemJava
 id itemKotlin
 id itemSwift
+id newGridView
+id newListView
 id pass
 id radioButton
 id radioButton2
@@ -52,9 +56,14 @@ id textView7
 id textView8
 id textView9
 id tvContextMenu
+id tvItemGrid
+id tvListItem
 layout activity_assingment
 layout activity_context_menu
 layout activity_fragment_example
+layout activity_grdi_example
+layout activity_grid_view_adapter
+layout activity_list_activity
 layout activity_main
 layout activity_new_page
 layout activity_testko
@@ -63,6 +72,7 @@ layout costom_dialouge
 layout fragment_first
 layout fragment_learning_activity
 layout fragment_second
+layout layout_list_item
 menu option_menu
 menu popup
 mipmap ic_launcher
